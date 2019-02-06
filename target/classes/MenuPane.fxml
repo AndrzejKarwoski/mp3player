@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+
+<AnchorPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.andrzejkarwoski.controller.MenuPaneController">
+        <children>
+            <MenuBar prefHeight="33.0" prefWidth="200.0" AnchorPane.bottomAnchor="167.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                <menus>
+                    <Menu fx:id="fileMenu" mnemonicParsing="false" text="File">
+                        <items>
+                            <MenuItem fx:id="fileMenuItem" mnemonicParsing="false" text="Otwórz plik" />
+                            <MenuItem fx:id="dirMenuItem" mnemonicParsing="false" text="Otwórz cały katalog" />
+                            <MenuItem fx:id="closeMenuItem" mnemonicParsing="false" text="Zamknij program" />
+                        </items>
+                    </Menu>
+                    <Menu mnemonicParsing="false" text="Help">
+                        <items>
+                            <MenuItem fx:id="readmeMenuItem" mnemonicParsing="false" text="Readme" />
+                        </items>
+                    </Menu>
+                </menus>
+            </MenuBar>
+        </children>
+
+</AnchorPane>

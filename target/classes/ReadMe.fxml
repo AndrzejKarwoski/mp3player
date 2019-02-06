@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="548.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextField alignment="TOP_CENTER" editable="false" layoutX="15.0" layoutY="14.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="47.0" prefWidth="519.0" text="Program wykonany przez IIoo/Andrzej Karowski" />
+      <TextField alignment="TOP_LEFT" editable="false" layoutX="15.0" layoutY="61.0" prefHeight="29.0" prefWidth="519.0" text="Wykorzystałem bibliotekę :" />
+      <TextField alignment="TOP_LEFT" layoutX="15.0" layoutY="90.0" prefHeight="29.0" prefWidth="519.0" text="-mp3agic ( https://github.com/mpatric/mp3agic )" />
+      <TextArea editable="false" layoutX="15.0" layoutY="119.0" prefHeight="200.0" prefWidth="519.0" text="Wykonane w JavaFX(obsługa odtwarzacza, GUI)" />
+   </children>
+</AnchorPane>
