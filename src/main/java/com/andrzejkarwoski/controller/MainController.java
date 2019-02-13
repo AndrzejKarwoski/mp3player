@@ -121,6 +121,7 @@ public class MainController implements Initializable {
             public void handle(ActionEvent actionEvent) {
                 contentTable.getSelectionModel().select(contentTable.getSelectionModel().getSelectedIndex()+1);
                 player.loadSong(contentTable.getSelectionModel().getSelectedIndex());
+                configureProgressBar();
             }
         });
 
@@ -129,6 +130,7 @@ public class MainController implements Initializable {
             public void handle(ActionEvent actionEvent) {
                 contentTable.getSelectionModel().select(contentTable.getSelectionModel().getSelectedIndex() - 1);
                 player.loadSong(contentTable.getSelectionModel().getSelectedIndex());
+                configureProgressBar();
             }
         }));
     }
