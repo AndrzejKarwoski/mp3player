@@ -6,21 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d7844f4-0e19-40b0-986e-918a53262bfc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/andrzejkarwoski/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/andrzejkarwoski/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/andrzejkarwoski/controller/MainController.class" afterDir="false" />
-    </list>
+    <list default="true" id="1d7844f4-0e19-40b0-986e-918a53262bfc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/andrzejkarwoski/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="110" column="46" lean-forward="true" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
+            <state relative-caret-position="544">
+              <caret line="134" column="12" lean-forward="true" selection-start-line="134" selection-start-column="12" selection-end-line="134" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#5227#5228#0" expanded="true" />
@@ -208,8 +194,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="86" />
-    <option name="y" value="12" />
+    <option name="x" value="81" />
     <option name="width" value="1143" />
     <option name="height" value="1100" />
   </component>
@@ -360,16 +345,30 @@
       <workItem from="1548532054736" duration="199000" />
       <workItem from="1548615962654" duration="5574000" />
       <workItem from="1549459424614" duration="251000" />
-      <workItem from="1550050858868" duration="1317000" />
+      <workItem from="1550050858868" duration="1570000" />
     </task>
+    <task id="LOCAL-00001" summary="progres bar">
+      <created>1550052851322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550052851323</updated>
+    </task>
+    <task id="LOCAL-00002" summary="progres bar">
+      <created>1550052893284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550052893284</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35730000" />
+    <option name="totallyTimeSpent" value="35983000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="86" y="12" width="1143" height="1100" extended-state="0" />
-    <editor active="true" />
+    <frame x="81" y="0" width="1143" height="1100" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -380,13 +379,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28335056" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28335056" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4318182" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32988626" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -436,6 +435,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="progres bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="progres bar" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -605,8 +608,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/andrzejkarwoski/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="110" column="46" lean-forward="true" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
+        <state relative-caret-position="544">
+          <caret line="134" column="12" lean-forward="true" selection-start-line="134" selection-start-column="12" selection-end-line="134" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#5227#5228#0" expanded="true" />
